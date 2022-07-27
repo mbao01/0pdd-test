@@ -1,0 +1,4 @@
+--source=.
+--verbose
+--exclude README.md
+--rule min-words:2
